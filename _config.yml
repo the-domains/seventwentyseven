@@ -1,9 +1,7 @@
-favicon: null
 name: SevenTwentySeven
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.22462
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8889864783268422
-  brandStrength: 0.6795064806938171
-  rhythmicContrast: 0.5037319238763303
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  lightness: 0.8108659621793777
-typography_spectrum: 0.1519871
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.4638445202726871
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.25
+purpose: []
